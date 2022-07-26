@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+}
+.fa{
+    color: blue;
+}
+span{
+    font-size: 12px;
+}
+.box{
+    padding: 60px 0px;
+   
+}
+.inside{
+
+    background-color: whitesmoke;
+    padding: 60px 10px;
+    margin: 30px;
+}
+.text{
+    padding: 15px;
+}
